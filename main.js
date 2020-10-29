@@ -49,7 +49,7 @@ const store = new Vuex.Store({
             commit,
             state
         }) => {
-            axios.get('http://interview.tripresso.com/tour/search', {
+            axios.get('https://interview.tripresso.com/tour/search', {
                     params: {
                         page: 1,
                         row_per_page: 1000,
