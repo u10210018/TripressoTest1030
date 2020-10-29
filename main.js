@@ -30,7 +30,7 @@ const store = new Vuex.Store({
             dispatch,
             state
         }) => {
-            axios.get('http://interview.tripresso.com/tour/search', {
+            axios.get('https://interview.tripresso.com/tour/search', {
                     params: {
                         page: state.currentPage,
                         row_per_page: state.perPage,
