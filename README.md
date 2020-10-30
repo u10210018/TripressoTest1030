@@ -18,9 +18,9 @@ DEMO - https://u10210018.github.io/TripressoTest1030/
 3.能夠正常切換分頁
 
 ### 引入資源
-css: reset.css, font-awesome
+css: `reset.css`, `font-awesome`
 
-js: vue.js, vuex, axios
+js: `vue.js`, `vuex`, `axios`
 
 ### 規劃
 
@@ -56,8 +56,8 @@ js: vue.js, vuex, axios
 <br/><img src="https://i.imgur.com/LBeu4H6.jpg" width="800"><br/>
 
 #### 3. 小結及感想
-本次也是練習vuex的使用，資料統一管理後，結構也會單純許多，較不會追蹤不到資料變化。<br/>
-以及後來有嘗試拆分到各個js檔案，但本次由於只有一個頁面的部份，所以沒有嘗試利用Vue-cli等webpack的自動化工具。<br/>
-純粹使用js檔及基礎scss編譯，也方便demo使用。<br/>
+本次也是練習`vuex`的使用，資料統一管理後，結構也會單純許多，較不會追蹤不到資料變化。<br/>
+以及後來有嘗試拆分到各個js檔案，但本次由於只有一個頁面的部份，所以沒有嘗試利用`Vue-cli`等`webpack`的自動化工具。<br/>
+純粹使用js檔及基礎`scss`編譯，也方便demo使用。<br/>
 
 
